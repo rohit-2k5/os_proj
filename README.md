@@ -1,1 +1,1 @@
-os project
+OS_PROJECT
